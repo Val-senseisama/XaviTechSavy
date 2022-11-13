@@ -198,8 +198,7 @@ nav ul:last-child{
         position: relative;
     }
     #landing img{
-        position: relative;
-        top: 3rem;
+        transform: scale(0.9);
     }
 
     .project{
