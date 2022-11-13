@@ -195,12 +195,9 @@ nav ul:last-child{
     }
     
     #landing{
-        position: relative;
+        padding-top: 25vh;
     }
-    #landing img{
-        transform: scale(0.9);
-    }
-
+    
     .project{
         width:86vw !important;
     }
